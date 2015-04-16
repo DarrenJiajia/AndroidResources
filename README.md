@@ -1,2 +1,2 @@
-# AndroidResources
-resource collections for Android development
+# Resources
+resource collections for development
